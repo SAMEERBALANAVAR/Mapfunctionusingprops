@@ -1,2 +1,2 @@
-# Mapfunctionusingprops
+# REACTJSPROPS
 Created with CodeSandbox
