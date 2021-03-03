@@ -8,6 +8,7 @@ import Avatar from "./Avatar";
 function Createcard(contact) {
   return (
     <Card
+      id={contact.id}
       key={contact.id}
       name={contact.name}
       img={contact.img}
